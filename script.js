@@ -1,3 +1,4 @@
+consol.log();
 var avengersMovie = {
     name: Avengers,
     runTime: 143 mins,
